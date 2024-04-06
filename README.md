@@ -1,3 +1,3 @@
-# Movies and Series Broadcast Homepage - Bharat Intern
+# StreamHouse - Bharat Intern
 
-Website created using HTML,CSS and JavaScript. 
+Movies and Series Broadcast website created using HTML,CSS and JavaScript. 
